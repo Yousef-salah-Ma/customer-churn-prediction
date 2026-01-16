@@ -99,8 +99,7 @@ All three models performed similarly, with XGBoost being slightly faster in trai
    ```bash
    git clone https://github.com/Yousef-salah-Ma/customer-churn-prediction.git
 2.Install dependencies:
-      ```bash
-      pip install -r requirements.txt
+pip install -r requirements.txt
 Load the pre-trained model:
 
 import joblib
