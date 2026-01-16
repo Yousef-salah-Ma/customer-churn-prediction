@@ -1,1 +1,8 @@
 customer_churn_1M.csv filter=lfs diff=lfs merge=lfs -text
+clean_data.csv? filter=lfs diff=lfs merge=lfs -text
+clean_data.csv filter=lfs diff=lfs merge=lfs -text
+Customer[[:space:]]Churn[[:space:]]Prediction[[:space:]]Dataset_[[:space:]]1M.ipynb filter=lfs diff=lfs merge=lfs -text
+model.pkl filter=lfs diff=lfs merge=lfs -text
+model_cat.pkl filter=lfs diff=lfs merge=lfs -text
+model_lgbmc.pkl filter=lfs diff=lfs merge=lfs -text
+catboost_info filter=lfs diff=lfs merge=lfs -text
